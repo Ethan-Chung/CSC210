@@ -1,4 +1,6 @@
---Between Operator
+--Between 
+-- Source: https://www.w3schools.com/sql/sql_between.asp
+-- Abstract: I am looking at the sample queries and creating my own query
 
 --Selects all columns from Invoices where the values in InvoiceDate are between '2016-01-08 00:00:00' and '2016-01-21 00:00:00'
 Select * from ap.dbo.Invoices 
