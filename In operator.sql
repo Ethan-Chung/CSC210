@@ -1,4 +1,6 @@
 --In Operator
+--source: https://www.w3schools.com/sql/sql_in.asp
+--abstract: I am looking at the sample queries and creating my own
 
 --Selects all columns from Vendors where the column VendorState has the value 'CA'
 Select * from ap.dbo.vendors 
