@@ -1,4 +1,6 @@
 -- A query that deletes a record from a table
+--Source: https://www.w3schools.com/sql/sql_delete.asp
+--Abstract: I am looking at the sample queries and creating my own
 
 --Selects what database to delete from
 Delete From ap.dbo.ContactUpdates 
