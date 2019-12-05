@@ -1,4 +1,6 @@
 -- Select Top Rows
+--source: https://www.w3schools.com/sql/sql_top.asp
+--abstract: I am looking at the sample queries and creating my own
 
 --This selects the Top 50 rows from database Invoices
 SELECT TOP 50 * from ap.dbo.Invoices; 
