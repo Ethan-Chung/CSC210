@@ -1,4 +1,6 @@
 --Like Function
+--Source: https://www.w3schools.com/sql/sql_like.asp
+--Abstract: I am looking at the sample queries and creating my own
 
 --Select all columns from Vendors where a value from VendorName starts with B
 Select * from ap.dbo.Vendors  
