@@ -1,4 +1,6 @@
   -- A query that uses an inner join
+  --source: Murach's 2016 SQL
+  --abstract: I am looking at the example query and explaing how it works
 
   --Selects certain columns
   SELECT InvoiceNumber, InvoiceDate, InvoiceTotal 
