@@ -1,4 +1,6 @@
 -- COUNT(), AVG(), and SUM() Functions
+--source: https://www.w3schools.com/sql/sql_count_avg_sum.asp
+--abstract: I am looking at the sample queries and creating my own
 
 --Counts how many rows are in the column FirstName and makes a new column called Number from the database ContactUpdates
 Select COUNT(FirstName) as Number 
