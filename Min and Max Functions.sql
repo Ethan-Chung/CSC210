@@ -1,4 +1,6 @@
 -- MIN() and MAX() functions
+--Source: https://www.w3schools.com/sql/sql_min_max.asp
+--abstract: I am looking at the example queries and creating my own
 
 --Selects the Minimum number from the column PaymentTotal and makes a new column called SmallesTPrice from Invoices
 Select MIN(PaymentTotal) as SmallestPrice  
