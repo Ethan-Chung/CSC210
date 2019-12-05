@@ -1,4 +1,6 @@
 --Insert Into
+--Source: https://www.w3schools.com/sql/sql_insert.asp
+--abstract: I am looking at the sample queries and creating my own
 
 --Allows editing within the columns
 Set Identity_insert ap.dbo.ContactUpdates ON 
