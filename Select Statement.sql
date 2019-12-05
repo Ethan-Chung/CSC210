@@ -1,3 +1,7 @@
+--Select Statement
+--Source: https://www.w3schools.com/sql/sql_select.asp
+--Abstract: I am looking at the sample queries and creating my own
+
 /* Selects all data in the Tables Vendors */
 Select * from ap.dbo.vendors
 /* Finds all the data in the Column Vendorcity that has Washington in it */
